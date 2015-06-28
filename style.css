@@ -48,6 +48,7 @@ body{
 }
 h1{
     float: left;
+    height: 40px;
 }
 nav{
     margin:20px;
