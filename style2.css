@@ -14,5 +14,15 @@ nav{
     margin-top: 0px;
     margin-left: 0px;
 }
-
+.float_clear{
+	clear:both;
+}
+.album_line{
+	width: 900px;
+}
+.album_box{
+	float: left;
+	width: 300px;
+}
+    
     
